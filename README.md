@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saikatg347
+- 👋 Hi, I’m Saikat
 - 👀 I’m interested in Web Development and Blockchain Developement
 - 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me [twitter](https://twitter.com/saikatg347), [LinkedIn](https://www.linkedin.com/in/saikag347)
