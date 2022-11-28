@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat</h1>
-<h3 align="center">I am a Post-Grad in Computer Applicaiton and Full Stack web developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saikatg347&label=Profile%20views&color=0e75b6&style=flat" alt="saikatg347" /> </p>
-
-<p align="left"> <a href="https://twitter.com/saikatg347" target="blank"><img src="https://img.shields.io/twitter/follow/saikatg347?logo=twitter&style=for-the-badge" alt="saikatg347" /></a> </p>
+<h3 align="center">I am a Post-Grad student in Computer Applicaiton and a Full Stack web developer.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithm, MERN Stack and NEXT.JS**
 
