@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saikat</h1>
-<h3 align="center">I am a Post-Grad student in Computer Applicaiton and a Full Stack web developer.</h3>
+<h3 align="center">I am a Post-Grad student in Computer Applicaton passionate about full stack web development.</h3>
 
 - 🌱 I’m currently learning **Data Structures and Algorithm, MERN Stack and NEXT.JS**
 
